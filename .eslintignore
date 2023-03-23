@@ -1,0 +1,8 @@
+dist
+coverage
+docs
+*.config.js
+.github
+e2e
+__tests__
+sw.js
